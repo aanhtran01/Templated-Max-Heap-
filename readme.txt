@@ -1,7 +1,7 @@
 max_heap.h
 ==========
 
-This is a C++ header file that implements a max heap data structure. It provides a class called max_heap within the pic10c namespace. The max_heap class supports insertion, retrieval of the maximum value, and removal of the maximum value from the heap.
+This is a C++ header file that implements a max heap data structure. It provides a class called max_heap. The max_heap class supports insertion, retrieval of the maximum value, and removal of the maximum value from the heap.
 
 Usage:
 ------
