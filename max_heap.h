@@ -1,6 +1,5 @@
 //
 //  max_heap.h
-//  hw1_pic10c
 //
 //  Created by Anh Tran on 3/29/22.
 //
